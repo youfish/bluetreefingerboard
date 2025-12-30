@@ -1,0 +1,8 @@
+{
+  "name": "bluetreefingerboard",
+  "main": "worker.js",
+  "compatibility_date": "2025-12-30",
+  "assets": {
+    "directory": "./public"
+  }
+}
